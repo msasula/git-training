@@ -1,0 +1,3 @@
+# git-training
+
+takie zmiany
